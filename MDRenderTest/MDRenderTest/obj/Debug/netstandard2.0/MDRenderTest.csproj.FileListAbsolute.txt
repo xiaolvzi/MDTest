@@ -1,0 +1,14 @@
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\bin\Debug\netstandard2.0\MDRenderTest.deps.json
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\bin\Debug\netstandard2.0\MDRenderTest.dll
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\bin\Debug\netstandard2.0\MDRenderTest.pdb
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\obj\Debug\netstandard2.0\MDRenderTest.csprojResolveAssemblyReference.cache
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\obj\Debug\netstandard2.0\MDRenderTest.csproj.CoreCompileInputs.cache
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\obj\Debug\netstandard2.0\MDRenderTest.App.xaml.g.cs
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\obj\Debug\netstandard2.0\MDRenderTest.MainPage.xaml.g.cs
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\obj\Debug\netstandard2.0\MDRenderTest.MasterDetailPage1.xaml.g.cs
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\obj\Debug\netstandard2.0\MDRenderTest.MasterDetailPage1Detail.xaml.g.cs
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\obj\Debug\netstandard2.0\MDRenderTest.MasterDetailPage1Master.xaml.g.cs
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\obj\Debug\netstandard2.0\MDRenderTest.AssemblyInfoInputs.cache
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\obj\Debug\netstandard2.0\MDRenderTest.AssemblyInfo.cs
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\obj\Debug\netstandard2.0\MDRenderTest.dll
+C:\VS_WorkSpace\MDRenderTest\MDRenderTest\MDRenderTest\obj\Debug\netstandard2.0\MDRenderTest.pdb
